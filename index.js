@@ -10,6 +10,15 @@ import { setupMaster, fork } from 'cluster'
 import { watchFile, unwatchFile } from 'fs'
 
 // https://stackoverflow.com/a/50052194
+const express = require('express')
+const app = express();
+const port = 3000;
+app.get('/', (req, res) => {
+  res.send('ShanBot Conected!')
+})
+app.listen(port, () => {
+  console.log(`Example app listening at http://localhost:${port}`)
+})
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 const __dirname = dirname(fileURLToPath(import.meta.url))

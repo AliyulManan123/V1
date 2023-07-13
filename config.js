@@ -28,35 +28,35 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['6285813708397', true],
-['6285813708397', 'FallZx', true],
-['6285760451683', 'Zeltoria', true]
+['6283146993017', true],
+['6283146993017', 'Ikhsan', true],
+['6283146993017', 'Ikhsan', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069306'
-global.nomorown = '6285813708397'
-global.nomorown1 = '6285813708397'
-global.nomorown2 = '6285813708397'
-global.nomorwa = '6285813708397'
+global.nomorbot = '6283122390511'
+global.nomorown = '6283146993017'
+global.nomorown1 = '6283146993017'
+global.nomorown2 = '6283146993017'
+global.nomorwa = '6283146993017'
 
 
 global.readMore = readMore
-global.author = 'FallZx'
-global.namebot = '​Kilua - MD'
-global.wm = '© Kilua By FallZx'
+global.author = 'Ikhsan'
+global.namebot = '​ShanBot'
+global.wm = '© ShanBot'
 global.media = 'https://telegra.ph/file/02a8d3c4b00146bbfeb5d.jpg'
 global.watermark = wm
-global.wm2 = 'FallZx'
+global.wm2 = 'ShanBot'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `Kilua - MD`
-global.stickpack = 'Kilua By FallZx'
-global.stickauth = `© FallZx`
+global.titlebot = `ShanBot`
+global.stickpack = 'Sticker by'
+global.stickauth = `© ShanBot`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= 'FallZx'
-global.nameown2 = 'Zeltoria'
+global.nameown1= 'Ikhsan'
+global.nameown2 = 'Ikhsan'
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
@@ -197,7 +197,7 @@ global.APIs = {
 }
 
 global.APIKeys = { 
-  'https://api.lolhuman.xyz': 'SGWN',
+  'https://api.lolhuman.xyz': 'Maslent',
   'https://violetics.pw': 'beta',
   'https://api.itsrose.site': 'Rs-Danil_Elistz',
   'https://api-xcoders.site': 'Frieren',
